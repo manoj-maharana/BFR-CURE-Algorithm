@@ -1,4 +1,4 @@
-#Description 
+### Description 
 
 Download the MNIST dataset from here. Pick its training test set which contains 60K samples, each represented by a 784-dimensional vector. There are ten classes (the ten digits, `0’ to `9’), and each sample is associated with one class. Preprocess the features using appropriate technique(s), and store them in a file. 
 
@@ -12,13 +12,13 @@ Download the MNIST dataset from here. Pick its training test set which contains 
 
 (5) Re-run the two algorithms five times assuming K1 = {100,200,500}, and report the above result. 
 
-#Deliverables 
+## Deliverables 
 
 (1) A folder containing your codes and a detailed readme file. You may use any programming language. 
 
 (2) A report (PDF) describing the experimental details, results, observations, etc. (3) Create a single zipped file name <RollNo_Assig1.zip> containing the above two and upload. 
 
-#General instructions 
+## General instructions 
 
 (1) Do not paste your codes in the report. 
 
